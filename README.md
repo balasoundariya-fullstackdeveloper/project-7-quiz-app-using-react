@@ -1,0 +1,1 @@
+This is another mini project. Design a Quiz App ,I make a quiz website or app using React JS. In this quiz app I can update your own questions and multiple options. This React JS Project Quiz app will display the score after submitting the answers for  all questions. 
